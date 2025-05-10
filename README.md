@@ -74,7 +74,7 @@ cd portfolio
 3. Install dependencies:
 npm install
 
-4.Run the application locally:
+4. Run the application locally:
 npm start
 
 ## Features
